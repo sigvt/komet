@@ -1,4 +1,4 @@
-# 🧃 Deck
+# ⛵️ Batten
 
 Tweetdeck for YouTube Live Chat.
 
@@ -6,7 +6,7 @@ Tweetdeck for YouTube Live Chat.
 
 ## Roadmap
 
-See [Development Progress](https://github.com/holodata/deck/discussions/1).
+See [Development Progress](https://github.com/holodata/batten/discussions/1).
 
 - [x] Design core logic and basic UI
 - [ ] Alpha release
