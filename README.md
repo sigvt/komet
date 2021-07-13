@@ -7,3 +7,5 @@ Tweetdeck for YouTube Live Streamers.
 ## Roadmap
 
 See [Development Progress](https://github.com/holodata/komet/discussions/1).
+
+> Source code will be available after the stable release.
