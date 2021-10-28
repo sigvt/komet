@@ -6,10 +6,12 @@ Tweetdeck for YouTube Live Streamers.
 
 ## Komet?
 
-コメ (/komé/) means comments/chats in Japanese slang, hence **Komet**.
+コメ (/komé/) stands for comments/chats in Japanese, hence **Komet**.
 
 ## Roadmap
 
-See [Development Progress](https://github.com/holodata/komet/discussions/1). Join [holodata Discord](https://holodata.org/discord) for discussions.
+- [x] Read chats through highly customizable filters
+- [ ] Send message
+- [ ] Moderation features
 
-> Source code will be available after the stable release.
+Join [holodata Discord](https://holodata.org/discord) for further discussions.
