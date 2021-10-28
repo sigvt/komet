@@ -2,7 +2,7 @@
 
 Tweetdeck for YouTube Live Streamers.
 
-![Screenshot](https://github.com/holodata/komet/blob/master/.github/ss.jpg?raw=true)
+![Screenshot](https://github.com/holodata/komet/blob/master/.github/ss.png?raw=true)
 
 ## Komet?
 
